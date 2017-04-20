@@ -4,7 +4,6 @@ node_modules/
 # Generated directories.
 generated/
 out/
-dist/
 
 # Generated files.
 *.log
